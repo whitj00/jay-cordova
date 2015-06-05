@@ -1,0 +1,16 @@
+2015-06-04 18:24:44.002 HelloCordova[15436:178916] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/whit/Library/Developer/CoreSimulator/Devices/C28FFE77-1D90-471B-9C14-786D0FE0BAED/data/Containers/Data/Application/DCC36345-036E-4D90-89BF-53B4FE61BF3B/Library/Cookies/Cookies.binarycookies
+2015-06-04 18:24:44.103 HelloCordova[15436:178916] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-04 18:24:44.104 HelloCordova[15436:178916] Multi-tasking -> Device: YES, App: YES
+2015-06-04 18:24:44.106 HelloCordova[15436:178916] Unlimited access to network resources
+2015-06-04 18:24:44.109 HelloCordova[15436:178916] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-04 18:24:44.244 HelloCordova[15436:178916] Resetting plugins due to page load.
+2015-06-04 18:24:44.266 HelloCordova[15436:178916] Finished load of: file:///Users/whit/Library/Developer/CoreSimulator/Devices/C28FFE77-1D90-471B-9C14-786D0FE0BAED/data/Containers/Bundle/Application/059FE32B-11C2-4925-AB49-221080AD05C7/HelloCordova.app/www/index.html
+2015-06-04 18:24:44.270 HelloCordova[15436:178916] Resetting plugins due to page load.
+2015-06-04 18:24:48.488 HelloCordova[15436:178916] Finished load of: http://jaywallet.meteor.com/

@@ -178,5 +178,14 @@
         <string>{768, 1024}</string>
       </dict>
     </array>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>jaywallet</string>
+        </array>
+      </dict>
+    </array>
   </dict>
 </plist>

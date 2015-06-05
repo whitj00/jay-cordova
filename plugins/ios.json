@@ -4,10 +4,25 @@
         "uninstalled": []
     },
     "config_munge": {
-        "files": {}
+        "files": {
+            "*-Info.plist": {
+                "parents": {
+                    "CFBundleURLTypes": [
+                        {
+                            "xml": "<array><dict><key>CFBundleURLSchemes</key><array><string>jaywallet</string></array></dict></array>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "nl.x-services.plugins.launchmyapp": {
+            "URL_SCHEME": "jaywallet",
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },
